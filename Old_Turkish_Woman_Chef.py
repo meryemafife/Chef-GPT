@@ -1,3 +1,7 @@
+#
+# author : Meryem Afife Keskin / rgwO9w
+# 
+
 from openai import OpenAI
 from simple_term_menu import TerminalMenu
 
